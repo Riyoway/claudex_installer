@@ -55,7 +55,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/riyoway/claudex_installer.git
-cd claudex
+cd claudex_installer
 ```
 
 Run the interactive UI:
